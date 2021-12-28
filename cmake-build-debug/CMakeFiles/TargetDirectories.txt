@@ -1,0 +1,3 @@
+C:/Users/locod/Documents/Wok/Winter2021/C/a/exc/cmake-build-debug/CMakeFiles/exc.dir
+C:/Users/locod/Documents/Wok/Winter2021/C/a/exc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/locod/Documents/Wok/Winter2021/C/a/exc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
